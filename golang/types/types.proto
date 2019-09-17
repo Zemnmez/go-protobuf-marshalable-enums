@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+
+
+
+enum MyEnum {
+    ValueA = 0;
+    ValueB = 1;
+}
+
+message MyMessage {
+    MyEnum test1 = 1;
+    uint32 test2 = 2;
+}

@@ -1,0 +1,3 @@
+[submodule "golang/protobuf-1"]
+	path = golang/protobuf-1
+	url = git@github.com:Zemnmez/protobuf-1.git
